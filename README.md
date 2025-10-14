@@ -18,7 +18,7 @@ This is an example where I configure network file shares and manage user permiss
 - Windows 10</b> (22H2)
 
 
-<h2>Working Ticket and Explanation</h2>
+<h2>Shared Folder Setup and Permission Configuration</h2>
 
 <p>
   
