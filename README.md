@@ -1,5 +1,5 @@
 # <p align="center">
-<img width="699" height="412" alt="Folder" src="https://github.com/user-attachments/assets/0bdf2866-e1b4-4a83-a0f4-44cef3908b8e" />
+<img width="799" height="412" alt="Folder" src="https://github.com/user-attachments/assets/0bdf2866-e1b4-4a83-a0f4-44cef3908b8e" />
 </p>
 
 <h1>Network File Shares and Setting Permissions</h1>
